@@ -93563,6 +93563,14 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		],
 		eventOnly: true,
 	},
+        tinkatink: {
+		learnset: {
+			astonish: ["9L1"],
+			babydolleyes: ["9L5"],
+			brutalswing: ["9L24"],
+			shoot: ["9L1"],
+		},
+	},
 	syclar: {
 		learnset: {
 			absorb: ["9L1", "8L1", "7L1"],

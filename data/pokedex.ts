@@ -18449,6 +18449,18 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		tags: ["Mythical"],
 		eggGroups: ["Undiscovered"],
 	},
+	kroos: {
+		num: 1026,
+		name: "Kroos",
+		types: ["Normal"],
+		gender: "N",
+		baseStats: {hp: 45, atk: 90, def: 75, spa: 40, spd: 65, spe: 105},
+		abilities: {0: "Keen Eye"},
+		heightm: 0.3,
+		weightkg: 0.3,
+		color: "Brown",
+		eggGroups: ["Undiscovered"],
+	},
 	missingno: {
 		num: 0,
 		name: "MissingNo.",

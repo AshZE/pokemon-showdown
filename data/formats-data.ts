@@ -5662,6 +5662,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "UU",
 		doublesTier: "(DUU)",
 		natDexTier: "RUBL",
+        },
+	kroos: {
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
+
 	},
 	missingno: {
 		isNonstandard: "Custom",
