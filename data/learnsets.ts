@@ -93563,7 +93563,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		],
 		eventOnly: true,
 	},
-        tinkatink: {
+        kroos: {
 		learnset: {
 			astonish: ["9L1"],
 			babydolleyes: ["9L5"],
